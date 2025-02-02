@@ -1,0 +1,6 @@
+scenarios = {
+    0: [1.0, 0.0, 0.0, 0.0],   # Code 0: 100% niveau 0
+    1: [0.85, 0.15, 0.0, 0.0],  # Code 1: 85% niveau 0, 15% niveau 1
+    2: [0.0, 0.0, 0.70, 0.30],  # Code 2: 70% niveau 2, 30% niveau 3
+    3: [0.0, 0.0, 0.30, 0.70]   # Code 3: 30% niveau 2, 70% niveau 3
+}
